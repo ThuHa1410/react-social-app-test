@@ -1,1 +1,1 @@
-# react-social-app-test
+This is my testing practice project.
